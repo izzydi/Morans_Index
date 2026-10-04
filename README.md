@@ -1,5 +1,7 @@
 # Moran's I Spatial Autocorrelation
 
+> **Historical portfolio artifact:** this repository preserves the rendered analysis; the original executable source is not currently available here.
+
 A spatial-statistics project demonstrating Moran's I as a measure of spatial autocorrelation and presenting the analysis as a rendered HTML report.
 
 ## Repository contents
